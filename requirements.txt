@@ -1,0 +1,9 @@
+Package      Version
+------------ -------
+distlib      0.3.7
+filelock     3.12.4
+pip          23.2.1
+platformdirs 3.10.0
+pygame       2.5.1
+setuptools   65.5.0
+virtualenv   20.24.5
